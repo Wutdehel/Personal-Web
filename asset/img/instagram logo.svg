@@ -1,0 +1,32 @@
+<svg width="106" height="106" viewBox="0 0 106 106" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="instagram logo" clip-path="url(#clip0_85_154)">
+<g id="Group">
+<path id="Vector" d="M74.422 0H31.578C14.1658 0 0 14.1658 0 31.578V74.422C0 91.8342 14.1658 106 31.578 106H74.422C91.8342 106 106 91.8342 106 74.422V31.578C106 14.1658 91.834 0 74.422 0ZM95.3364 74.422C95.3364 85.9726 85.9726 95.3364 74.422 95.3364H31.578C20.0274 95.3364 10.6636 85.9726 10.6636 74.422V31.578C10.6636 20.0272 20.0274 10.6636 31.578 10.6636H74.422C85.9726 10.6636 95.3364 20.0272 95.3364 31.578V74.422Z" fill="url(#paint0_linear_85_154)"/>
+<path id="Vector_2" d="M53.0003 25.5847C37.8835 25.5847 25.585 37.8832 25.585 52.9999C25.585 68.1166 37.8835 80.4153 53.0003 80.4153C68.1172 80.4153 80.4157 68.1168 80.4157 52.9999C80.4157 37.883 68.1172 25.5847 53.0003 25.5847ZM53.0003 69.7519C43.7485 69.7519 36.2486 62.2519 36.2486 53.0001C36.2486 43.7483 43.7487 36.2483 53.0003 36.2483C62.2522 36.2483 69.7521 43.7483 69.7521 53.0001C69.7521 62.2517 62.252 69.7519 53.0003 69.7519Z" fill="url(#paint1_linear_85_154)"/>
+<path id="Vector_3" d="M80.4687 32.3598C84.0968 32.3598 87.038 29.4186 87.038 25.7905C87.038 22.1624 84.0968 19.2212 80.4687 19.2212C76.8406 19.2212 73.8994 22.1624 73.8994 25.7905C73.8994 29.4186 76.8406 32.3598 80.4687 32.3598Z" fill="url(#paint2_linear_85_154)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_85_154" x1="53" y1="105.691" x2="53" y2="0.82332" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E09B3D"/>
+<stop offset="0.3" stop-color="#C74C4D"/>
+<stop offset="0.6" stop-color="#C21975"/>
+<stop offset="1" stop-color="#7024C4"/>
+</linearGradient>
+<linearGradient id="paint1_linear_85_154" x1="53.0003" y1="105.692" x2="53.0003" y2="0.823415" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E09B3D"/>
+<stop offset="0.3" stop-color="#C74C4D"/>
+<stop offset="0.6" stop-color="#C21975"/>
+<stop offset="1" stop-color="#7024C4"/>
+</linearGradient>
+<linearGradient id="paint2_linear_85_154" x1="80.4687" y1="105.691" x2="80.4687" y2="0.823344" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E09B3D"/>
+<stop offset="0.3" stop-color="#C74C4D"/>
+<stop offset="0.6" stop-color="#C21975"/>
+<stop offset="1" stop-color="#7024C4"/>
+</linearGradient>
+<clipPath id="clip0_85_154">
+<rect width="106" height="106" fill="white"/>
+</clipPath>
+</defs>
+</svg>
