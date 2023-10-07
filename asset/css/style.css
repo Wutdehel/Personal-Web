@@ -264,6 +264,12 @@ footer {
     height: 478px;
     border-radius: 34px;
     background: rgba(217, 217, 217, 0.30);
+    transition: transform 0.3s ease, top 0.3s ease;
+}
+
+#project .wrapper-card .card:hover {
+    transform: scale(1.1); 
+    top: -10px;
 }
 
 #project .wrapper-card .card .content-wrapper {
@@ -273,6 +279,10 @@ footer {
     margin: 12px 13px 13px 12px;
     gap: 20px;
     justify-content: center;
+}
+
+#project .wrapper-card .card .content-wrapper a {
+    text-decoration: none;
 }
 
 .image-card {
@@ -294,6 +304,8 @@ footer {
     font-style: normal;
     font-weight: 600;
     line-height: normal;
+    text-decoration: none;
+
 }
 
 #project .wrapper-card .card .text-wrapper p {
@@ -302,6 +314,8 @@ footer {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    text-decoration: none;
+
 }
 
 #project .wrapper-content {
@@ -447,6 +461,13 @@ footer {
     font-style: normal;
     font-weight: 600;
     line-height: normal;
+    transition: transform 0.3s ease, top 0.3s ease;
+
+}
+
+#about  .card-wrapper .card .content-wrapper a:hover {
+    transform: scale(1.1); 
+    top: -10px;
 }
 
 #about .logo-wrapper {
@@ -456,4 +477,17 @@ footer {
     align-items: center;
     gap: 50px;
     margin-left: 5%;
+}
+
+#about .logo-wrapper a:hover img {
+    animation: bounce 0.5s infinite;
+}
+
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0); /* Awal dan akhir posisi tidak berubah */
+    }
+    50% {
+        transform: translateY(-10px); /* Posisi puncak ketika sedang memantul */
+    }
 }
